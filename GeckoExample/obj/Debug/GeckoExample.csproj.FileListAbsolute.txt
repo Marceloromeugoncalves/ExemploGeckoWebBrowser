@@ -1,0 +1,15 @@
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\bin\Debug\GeckoExample.exe.config
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\bin\Debug\GeckoExample.exe
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\bin\Debug\GeckoExample.pdb
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\bin\Debug\Geckofx-Core.dll
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\bin\Debug\Geckofx-Winforms.dll
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\bin\Debug\Geckofx-Core.pdb
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\obj\Debug\GeckoExample.csprojAssemblyReference.cache
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\obj\Debug\GeckoExample.FormBrowser.resources
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\obj\Debug\GeckoExample.Properties.Resources.resources
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\obj\Debug\GeckoExample.csproj.GenerateResource.cache
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\obj\Debug\GeckoExample.csproj.CoreCompileInputs.cache
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\obj\Debug\GeckoExample.csproj.CopyComplete
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\obj\Debug\GeckoExample.exe
+C:\Users\ak1o\Desktop\Marcelo\Developer\GeckoExample\GeckoExample\obj\Debug\GeckoExample.pdb
