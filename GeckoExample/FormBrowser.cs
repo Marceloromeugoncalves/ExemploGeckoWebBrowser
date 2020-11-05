@@ -60,5 +60,11 @@ namespace GeckoExample
             //Define a URL no campo após o carregamento do documento.
             textBoxUrl.Text = geckoWebBrowser.Url.ToString();
         }
+
+        private void FormBrowser_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            //Parando o navegador.
+            geckoWebBrowser.Stop();
+        }
     }
 }
